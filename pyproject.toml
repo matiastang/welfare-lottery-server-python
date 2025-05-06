@@ -1,0 +1,11 @@
+[project]
+name = "welfare-lottery-server-python"
+version = "0.1.0"
+description = "获取福彩双色球最新中奖信息"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "httpx>=0.28.1",
+    "mcp[cli]>=1.7.1",
+    "pydantic>=2.11.4",
+]
