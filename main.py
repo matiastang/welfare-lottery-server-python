@@ -2,7 +2,7 @@
 Author: matiastang
 Date: 2025-05-06 15:47:44
 LastEditors: matiastang
-LastEditTime: 2025-05-06 18:15:55
+LastEditTime: 2025-05-07 15:39:03
 FilePath: /welfare-lottery-server-python/main.py
 Description: welfare-lottery-server
 '''
@@ -134,5 +134,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
     main()
